@@ -1,7 +1,7 @@
-name = Helm Webform Display
+name = Proud Webform Display
 description = Manages the display of webform nodes
 core = 7.x
-package = Helm Display
+package = Proud Display
 dependencies[] = ctools
 dependencies[] = helm_webform
 dependencies[] = panelizer

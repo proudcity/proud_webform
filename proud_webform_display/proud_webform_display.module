@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Code for the Helm Webform Display feature.
+ * Code for the Proud Webform Display feature.
  */
 
 include_once 'proud_webform_display.features.inc';
